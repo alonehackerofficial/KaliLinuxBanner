@@ -2,6 +2,8 @@
  
  -  Termux ka banner kali linux ke jaisa ho jayega.
 
+![PicsArt_01-05-12 07 24](https://user-images.githubusercontent.com/96905918/148369599-b5747ba3-6325-4b46-b3cf-acceb0861813.jpg)
+
 
 
 This command for access the storage in termux 
